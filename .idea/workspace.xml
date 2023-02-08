@@ -4,7 +4,121 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614bf828-a0e9-4528-b9f4-fe3cc21a418e" name="Changes" comment="" />
+    <list default="true" id="614bf828-a0e9-4528-b9f4-fe3cc21a418e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/.idea/androidTestResultsUserPreferences.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/.idea/androidTestResultsUserPreferences.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/HiltTestRunner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/HiltTestRunner.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/di/HiltTestModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/di/HiltTestModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/presentation/home/HomeScreenTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/presentation/home/HomeScreenTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/repositories/FakeRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/androidTest/java/com/pico/ebudget/repositories/FakeRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/hiltmodules/DataModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/hiltmodules/DataModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/repositories/HomeRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/repositories/HomeRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/sources/HomeDataService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/sources/HomeDataService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/sources/HomeDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/data/sources/HomeDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/modal/repositories/HomeRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/modal/repositories/HomeRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/BudgetApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/BudgetApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/TDDActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/TDDActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/Homescreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/Homescreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/components/TopBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/components/TopBar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/BaseComponents.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/BaseComponents.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/MyHomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/MyHomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/utils/Utilities.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/TDDSample/presentation/utils/Utilities.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/apis/FirebaseApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/apis/FirebaseApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Budget.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Budget.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/BudgetWithExpenses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/BudgetWithExpenses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/BudgetWithIncomes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/BudgetWithIncomes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Entry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Entry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Expenditure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Expenditure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Income.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/Income.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/models/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/repositories/BudgetRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/repositories/BudgetRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/sources/room/BudgetDB.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/sources/room/BudgetDB.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/sources/room/daos/BudgetDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/sources/room/daos/BudgetDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/sources/room/daos/entryDaos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/data/sources/room/daos/entryDaos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/Fab.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/Fab.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/HomeScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/Logs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/Logs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/topBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/home/topBar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/main/java/com/pico/ebudget/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/data/sources/HomeDataSourceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/data/sources/HomeDataSourceTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/modal/repositories/HomeRepositoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/modal/repositories/HomeRepositoryTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/HomeViewModelTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/HomeViewModelTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/TestCoroutineRule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/TestCoroutineRule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/TestObserver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/app/src/test/java/com/pico/ebudget/TDDSample/presentation/home/viewmodels/TestObserver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EBudget/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EBudget/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0002_person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0003_news_sermon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0004_fronttext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0005_backgroundvideo_remove_fronttext_background_video_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0006_alter_person_birth_date_alter_person_email_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0007_delete_fronttext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0008_delete_backgroundvideo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0009_delete_sermon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/migrations/0010_delete_news_delete_person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/DivineSite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0002_fronttext_active.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0003_remove_fronttext_active.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0004_fronttext_active.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0005_backgroundvideo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0006_ministry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0007_rename_image_ministry_ministry_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0008_sermon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0009_alter_sermon_placeholder_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0010_news_alter_sermon_facebook_url_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0011_rename_is_headline_news_isheadline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0012_about_menuitem_person_project_teams_wschedule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0013_fronttext_big_caption.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0014_fronttext_back_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0015_rename_day_of_week_wschedule_title_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0016_alter_fronttext_big_caption_alter_fronttext_caption_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0017_welcomenote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0018_sermon_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0019_alter_about_core_values_alter_about_mission_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/migrations/0020_alter_teams_team_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/templatetags/adwmi_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/adwmi/templatetags/adwmi_extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/media/img/ministries/child.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/media/img/ministries/child.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/media/img/ministries/youth.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/media/img/ministries/youth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/media/img/sermons/Sermons.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/media/img/sermons/Sermons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/static/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../DivineProject/DivineSite/static/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/static/assets/img/aboutus-temp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/static/assets/img/church1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/authentication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/imageUpload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/master.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/signinModel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/soon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DivineProject/DivineSite/template/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passenger_wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/passenger_wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/MyApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/MyApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/navs/MyNavHost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/navs/MyNavHost.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/navs/Screens.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/navs/Screens.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/services/ExampleActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/services/ExampleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/services/ExampleService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Seamless/app/src/main/java/com/josef/seamless/services/ExampleService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../learning-git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../learning-git/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +133,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2LPKdM0cfwPC5E9Db43UG7Sh9Py" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
